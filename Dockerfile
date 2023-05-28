@@ -1,7 +1,7 @@
 # Startup from alpine
 FROM alpine:3.14
 LABEL Maintainer = "Hilman Maulana, Naufal Azkia"
-LABEL Description = "Mikpos is a web-based application (MikroTik API PHP class) management users and payments that can be used in HotSpot and PPP MikroTik RouterOS users."
+LABEL Description = "Mikpos is a web-based application (MikroTik API PHP class) management users and payments that can be used in HotSpot and PPPoE MikroTik RouterOS users."
 
 # Setup document root
 WORKDIR /var/www/html
