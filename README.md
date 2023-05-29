@@ -55,6 +55,8 @@ docker run -d \
   animegasan/mikpos:latest
 ```
 
+***Note : If API service in mikrotik changed, add API service after the Mikrotik IP in Add Router form. `<IP_MIKROTIK>:API_SERVICES`***
+
 ---
 
 ### Web Interface
